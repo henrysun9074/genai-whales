@@ -1,0 +1,2 @@
+All of the train_xxx_.py scripts are designed to work with the diffusers library. Clone that onto your computer following instructions here: 
+https://github.com/huggingface/diffusers 

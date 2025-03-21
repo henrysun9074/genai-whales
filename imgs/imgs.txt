@@ -1,0 +1,5 @@
+For MaRRS Lab members:
+images available in R drive at /Volumes/Marineuas/Projects/Student Projects/holly_houliston/batched synthetic images
+
+For other users:
+email hs325@duke.edu for batch-generated imagery

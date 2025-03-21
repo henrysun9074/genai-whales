@@ -1,4 +1,5 @@
 Links to Models on Hugging Face (plug-and-play with diffusers, see batch gen script)
+## too many files to add - but can use git LFS if you want to download them into your own repo
 
 NARW LoRA v1 (honestly better than v2): 
 https://huggingface.co/henrysun9074/north-atlantic-right-whale-lora-mk-1 

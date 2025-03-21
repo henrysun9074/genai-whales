@@ -1,0 +1,7 @@
+Training Images for LoRA: 
+
+NARW Mark 1 LoRA: https://huggingface.co/datasets/henrysun9074/autotrain-north-atlantic-right-whale-lora-mk-1
+
+NARW Mark 2 LoRA: https://huggingface.co/datasets/henrysun9074/autotrain-north-atlantic-right-whale-lora-mk2 
+
+Drone HW LoRA: https://huggingface.co/datasets/henrysun9074/autotrain-drone-humpback-whale-lora-1
