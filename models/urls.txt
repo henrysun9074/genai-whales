@@ -16,5 +16,5 @@ https://huggingface.co/henrysun9074/HHlora-out
 "HappyHumpbacks" v1 DreamBooth: 
 https://huggingface.co/henrysun9074/dreambooth-HHV1DB 
 
-Other DreamBooth traisl with "HappyHumpbacks" images - check commit history and use git LFS to revert to/try previous versions:
+Other DreamBooth trials with "HappyHumpbacks" images - check commit history and use git LFS to revert to/try previous versions:
 https://huggingface.co/henrysun9074/dreambooth-out 
